@@ -1,0 +1,20 @@
+{
+  "name": "emergency-location-tracker-whatsapp",
+  "version": "1.0.0",
+  "description": "location tracker api for victims in case of natural disasters such as earthquake",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "emergency",
+    "earthquake",
+    "location",
+    "deprem"
+  ],
+  "author": "fatihis, berkaypacal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
